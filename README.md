@@ -1,2 +1,2 @@
 # hello-world
-Trying this out. Non-code who wants to create a medical app.
+Trying this out. Non-coder who wants to create a medical app.
